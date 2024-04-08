@@ -1,0 +1,28 @@
+{
+  "name": "@fbdev64/js-utilities",
+  "version": "1.0.1",
+  "description": "Small JS utilities and scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBDev64/js-utilities.git"
+  },
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+	},
+  "keywords": [
+    "js",
+    "utilities",
+    "script",
+    "automation"
+  ],
+  "author": "fbdev64",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FBDev64/js-utilities/issues"
+  },
+  "homepage": "https://github.com/FBDev64/js-utilities#readme"
+}
